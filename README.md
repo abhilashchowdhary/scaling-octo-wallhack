@@ -3,7 +3,7 @@ Practicing with git submodules
 
 # Releases
 
-Current release: 2
+Current release: 2.1 (hotfix)
 Previous release: 1
 
 # Changesets
