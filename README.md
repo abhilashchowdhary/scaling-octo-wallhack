@@ -1,5 +1,6 @@
 # scaling-octo-wallhack
 Practicing with git submodules
+Three cheers for git submodules!
 
 # Releases
 
