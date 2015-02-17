@@ -3,8 +3,8 @@ Practicing with git submodules
 
 # Releases
 
-Current release: 1
-Previous release: None.
+Current release: 2
+Previous release: 1
 
 # Changesets
 
